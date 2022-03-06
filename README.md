@@ -2,7 +2,8 @@
 <body>
 <h1 class="welcome">WELCOME TO MY BLOG</h1>
 	  <figure>
-<figcaption>Steven Valadez | AGE: 23 </figcaption>
+		<img src=""C:\Users\steve\OneDrive\Pictures\Dallas Bldngs.png" alt="Arrranged Skycrapers Illustration"/>
+		<figcaption>Steven Valadez | AGE: 23 </figcaption>
 	  </figure>
 <div>
 	  <p>Hello, my name is Steven Valadez. Welcome to my portfolio. Although, it may seem a bit empty right now, I have some content coming to fill in all this white space. Currently, I am learning CSS, this is after acquiring HTML knowledge. All through my wonderful Fiances recommendation--Codecademy. So far, I think Codecademy is great! But it's a bit too slow on the teaching. Which is fine. Not so great for the enthusiastic learner though. Anyway, thanks for stopping by and checking out my progress.</p></div>
