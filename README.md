@@ -1,4 +1,7 @@
 <html>
+	<header>
+		<title>Steven Valadez Portfolio</title>
+	</header>
 <body>
 <h1 class="welcome">WELCOME TO MY BLOG</h1>
 	  <figure>
