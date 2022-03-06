@@ -2,7 +2,7 @@
 <body>
 <h1 class="welcome">WELCOME TO MY BLOG</h1>
 	  <figure>
-		<img src="https://ibb.co/KWBC1FT" alt="Arranged Skycrapers Illustration"/>
+		<img src="https://i.ibb.co/S64BrBs/IN-THE-CLOUDS-01.jpg" alt="Arranged Skycrapers Illustration"/>
 		<figcaption>Steven Valadez | AGE: 23 </figcaption>
 	  </figure>
 <div>
